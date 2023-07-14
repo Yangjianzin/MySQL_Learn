@@ -1,7 +1,8 @@
 # The MySQL Class - Lesson 1
+## Create at 2023.07.14
 
-基本語法
-| Syntax        |  Explain      | example  |
+## 基本語法
+|  Syntax        |  Explain      | example  |
 | :------------- |:-------------|:--------
 | CREATE DATABASE        | 創建資料庫      | CREATE DATABASE \`資料庫名稱\`;  |
 | USE        | 使用資料庫      | USE \`資料庫名稱\`; |
