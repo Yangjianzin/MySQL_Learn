@@ -1,5 +1,6 @@
 # The MySQL Class - Lesson 1
 
+基本語法
 | Syntax        |  Explain      | example  |
 | :------------- |:-------------|:--------
 | CREATE DATABASE        | 創建資料庫      | CREATE DATABASE \`資料庫名稱\`;  |
